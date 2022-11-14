@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsplatformer\\fpsplatformergamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\fpsplatformereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\unrealeditor\\development\\fpsplatformer\\definitions.fpsplatformer.h",
+            "c:\\ue5\\fpsplatformer\\source\\fpsplatformer\\fpsplatformergamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsplatformer\\fpsplatformergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

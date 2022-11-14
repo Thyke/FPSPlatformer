@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsplatformer\\fpsplatformer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\fpsplatformereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue5\\fpsplatformer\\intermediate\\build\\win64\\unrealeditor\\development\\fpsplatformer\\definitions.fpsplatformer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

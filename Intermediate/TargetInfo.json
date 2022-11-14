@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSPlatformer",
+			"Path": "C:\\UE5\\FPSPlatformer\\Source\\FPSPlatformer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSPlatformerEditor",
+			"Path": "C:\\UE5\\FPSPlatformer\\Source\\FPSPlatformerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
